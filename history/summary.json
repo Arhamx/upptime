@@ -4,19 +4,19 @@
     "url": "https://webverge.io",
     "icon": "https://favicons.githubusercontent.com/webverge.io",
     "slug": "web-verge",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 94,
-    "timeWeek": 100,
-    "timeMonth": 115,
-    "timeYear": 260,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "76.40%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.85%",
+    "time": 263,
+    "timeDay": 451,
+    "timeWeek": 189,
+    "timeMonth": 137,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2021-10-18": 0
+      "2021-10-18": 340
     }
   },
   {
