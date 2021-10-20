@@ -6,15 +6,15 @@
     "slug": "web-verge",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "76.40%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.63%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.85%",
-    "time": 262,
-    "timeDay": 437,
-    "timeWeek": 186,
+    "time": 261,
+    "timeDay": 77,
+    "timeWeek": 188,
     "timeMonth": 137,
-    "timeYear": 262,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2021-10-18": 340
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 190,
-    "timeDay": 881,
-    "timeWeek": 560,
-    "timeMonth": 223,
-    "timeYear": 190,
+    "time": 194,
+    "timeDay": 877,
+    "timeWeek": 677,
+    "timeMonth": 251,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2021-05-19": 43
     }
