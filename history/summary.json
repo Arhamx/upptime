@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.87%",
     "time": 356,
-    "timeDay": 1430,
-    "timeWeek": 1404,
+    "timeDay": 1610,
+    "timeWeek": 1419,
     "timeMonth": 860,
     "timeYear": 356,
     "dailyMinutesDown": {
@@ -27,17 +27,16 @@
     "slug": "blog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 398,
-    "timeDay": 4398,
-    "timeWeek": 2241,
+    "timeDay": 8153,
+    "timeWeek": 2421,
     "timeMonth": 1339,
     "timeYear": 398,
     "dailyMinutesDown": {
-      "2021-11-23": 14,
       "2021-05-19": 43
     }
   }
