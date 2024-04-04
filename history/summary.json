@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/webverge.io.ico",
     "slug": "web-verge",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1101,
-    "timeDay": 163,
-    "timeWeek": 108,
-    "timeMonth": 378,
+    "time": 1097,
+    "timeDay": 59,
+    "timeWeek": 90,
+    "timeMonth": 379,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2023-10-01": 68
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 589,
-    "timeDay": 48,
-    "timeWeek": 333,
-    "timeMonth": 303,
+    "timeDay": 200,
+    "timeWeek": 329,
+    "timeMonth": 305,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2023-05-21": 18
