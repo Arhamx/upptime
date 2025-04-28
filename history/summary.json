@@ -4,17 +4,17 @@
     "url": "https://webverge.io",
     "icon": "https://icons.duckduckgo.com/ip3/webverge.io.ico",
     "slug": "web-verge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 187,
-    "timeWeek": 200,
-    "timeMonth": 372,
-    "timeYear": 674,
+    "time": 661,
+    "timeDay": 1216,
+    "timeWeek": 447,
+    "timeMonth": 431,
+    "timeYear": 679,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 338,
-    "timeDay": 159,
-    "timeWeek": 201,
-    "timeMonth": 243,
-    "timeYear": 349,
+    "timeDay": 708,
+    "timeWeek": 281,
+    "timeMonth": 240,
+    "timeYear": 351,
     "dailyMinutesDown": {}
   }
 ]
