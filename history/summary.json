@@ -35,24 +35,25 @@
     "url": "https://blog.webverge.io",
     "icon": "https://icons.duckduckgo.com/ip3/blog.webverge.io.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "37.86%",
+    "uptimeDay": "52.29%",
     "uptimeWeek": "88.27%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "99.73%",
-    "time": 820,
-    "timeDay": 19647,
-    "timeWeek": 12440,
-    "timeMonth": 4836,
-    "timeYear": 933,
+    "time": 860,
+    "timeDay": 19630,
+    "timeWeek": 12946,
+    "timeMonth": 5234,
+    "timeYear": 982,
     "dailyMinutesDown": {
       "2025-11-18": 147,
       "2026-01-09": 42,
       "2026-02-13": 44,
       "2026-03-28": 28,
       "2026-10-17": 1058,
-      "2026-10-16": 125
+      "2026-10-16": 125,
+      "2026-10-18": 0
     }
   }
 ]
